@@ -1,10 +1,31 @@
-# Novely - Minimal Submission Build
+# 📚 Novely – Full Stack Project
 
-This repository is a trimmed minimal version of the Novely project meant for deployment
-and submission verification. It includes a working signup/login flow (backend -> MongoDB Atlas)
-and a React frontend (Vite + Tailwind) that hits the backend.
+**Novely** is a full-stack web application designed to manage user authentication using a modern MERN stack setup.  
+It demonstrates user registration, login, JWT authentication, and secure data storage with MongoDB Atlas.
 
-## How to use
-- Fill in `backend/.env` with your MongoDB Atlas URI and preferred FRONTEND_URL.
-- Deploy backend (Render/Heroku) using the `backend` folder.
-- Deploy frontend (Vercel/Netlify) using the `frontend` folder. Set `VITE_API_BASE_URL` env var to your backend API base URL.
+---
+
+## 🚀 Project Overview
+
+**Tech Stack**
+- **Frontend:** React (Vite) + Axios + CSS  
+- **Backend:** Node.js + Express.js  
+- **Database:** MongoDB Atlas  
+- **Authentication:** JWT (JSON Web Token)  
+- **Password Security:** Bcrypt Hashing  
+
+---
+
+## 🌐 Hosted Links
+
+| Component | Hosting Platform | Live URL |
+|------------|------------------|-----------|
+| **Frontend** | Vercel | [https://frontend-chi-nine-66.vercel.app](https://frontend-chi-nine-66.vercel.app) |
+| **Backend** | Render | *(To be added after backend deployment)* |
+| **Database** | MongoDB Atlas | Connected |
+
+---
+
+## 🧩 Folder Structure
+
+
