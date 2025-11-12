@@ -1,4 +1,4 @@
-# 📚 Novely – Full Stack MERN Authentication App
+# 📚 Novely – Full Stack Project
 
 **Novely** is a full-stack web application built using the **MERN** stack, focusing on secure and efficient **user authentication**.
 It demonstrates modern full-stack development practices with **JWT-based authentication**, **bcrypt password hashing**, and a responsive **React (Vite)** frontend.
